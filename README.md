@@ -1,5 +1,7 @@
 # Encomiendas Ya!
 
+![Envias Ya! cover](assets/logistica.jpg)
+
 ## Antes de empezar: algunos consejos
 
 El enunciado tiene **mucha** información, van a necesitar leerlo varias veces. La sugerencia es que lo lean entero una vez (para tener una idea general) y luego vuelvan a consultarlo las veces que hagan falta.
