@@ -196,4 +196,4 @@ Esta obra fue "recortada" por [Miguel Carboni](https://github.com/miguelius) y p
 
 :memo: [Enunciado original - PlanetExpress](http://tadp.wdfiles.com/local--files/tp-200802/Enunciado%20Entrega%201) creado por el equipo de TADP UTN del año 2008 compuesto por: Sergio Magnacco, Deby Fortini, Nico Passerini, Fer Dodino, Guille Polito, [Leonardo Gassman](https://github.com/lgassman) y Alfredo Sanzo y compartido generosamente por los términos de la licencia [![CC BY-SA 3.0][cc-by-sa-image]][cc-by-sa].
 
-:camera_flash: Imagen de portada por <a href="https://indiehoy.com/recitales/los-10-mejores-festivales-musica-mexico/">Los 10 mejores festivales de música en México</a>.
+:camera_flash: Imagen de portada por Foto de [Marcin Jozwiak](https://unsplash.com/es/@marcinjozwiak) en [Unsplash](https://unsplash.com/es/fotos/oh0DITWoHi4#:~:text=Marcin%20Jozwiak%20en-,Unsplash,-Want%20to%20launch).
